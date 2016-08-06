@@ -5,8 +5,8 @@ data:extend(
     name = "chemical-plant-1",
     icon = "__base__/graphics/icons/chemical-plant.png",
     flags = {"goes-to-quickbar"},
-    subgroup = "production-machine",
-    order = "e[chemical-plant]",
+    subgroup = "dytech-machines-oil-processing",
+    order = "5",
     place_result = "chemical-plant-1",
     stack_size = 10
   },
@@ -15,8 +15,8 @@ data:extend(
     name = "chemical-plant-2",
     icon = "__base__/graphics/icons/chemical-plant.png",
     flags = {"goes-to-quickbar"},
-    subgroup = "production-machine",
-    order = "e[chemical-plant]",
+    subgroup = "dytech-machines-oil-processing",
+    order = "6",
     place_result = "chemical-plant-2",
     stack_size = 10
   },
