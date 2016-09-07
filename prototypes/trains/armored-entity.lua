@@ -28,6 +28,7 @@ data:extend(
     connection_distance = 3.3,
     joint_distance = 4.6,
 	energy_per_hit_point = 7,
+	vertical_selection_shift = -0.5,
     energy_source =
     {
       type = "burner",
