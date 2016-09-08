@@ -167,6 +167,7 @@ data:extend(
 	energy_per_hit_point = 4,
     back_light = rolling_stock_back_light(),
     stand_by_light = rolling_stock_stand_by_light(),
+	vertical_selection_shift = -0.5,
     pictures = 
 	{
       layers =
